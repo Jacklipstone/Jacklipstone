@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JackLipstone
-- 👀 I’m interested in Smart contracts and learning sh*t
-- 🌱 I’m currently learning zk-rollups and rust 
-- 📫 How to reach me (TBD)
+- 👀 I co-founded Rari Capital and have led all marketing and growth initiatives
+- 🌱 I’m currently learning how to program
+- 📫 How to reach me: [Twitter](https://twitter.com/JackLipstone) 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jacklipstone&count_private=true&show_icons=true&theme=radical)
